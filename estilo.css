@@ -106,7 +106,6 @@ main > article {
 
 main > article > h1   {
     font-family: var(--fonte-android);
-    margin:0px;
     padding: 10px 0px 0px 10px;
     color: #1e6b41;
     font-weight: lighter;
